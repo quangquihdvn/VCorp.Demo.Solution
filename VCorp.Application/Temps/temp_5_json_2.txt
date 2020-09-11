@@ -1,0 +1,144 @@
+type = videostream + [default]videostream
+
+20200907203943298
+20200907200120741
+
+20200907153516159
+[
+	{
+		"type": "p",
+		"value": "Ngoại trừ intro và outro, <i>DreAMEE</i> - album đầu tay của <a href='http://app.kenh14.vn/app/amee.html'>AMEE</a> - gồm 8 ca khúc nhưng đã có tới 6 ca khúc được phát hành single chính thức. Đây là phương thức quảng bá đậm chất US-UK và ở Việt Nam cũng đã có Hoàng Thùy Linh từng rất thành công với 4 single từ album <i>Hoàng</i>. Để làm được điều này, ngoài sự liều lĩnh dám bứt phá ra, thì đội ngũ sản xuất hẳn phải vô cùng tự tin về chất lượng sản phẩm. ",
+		"index": 1
+	},
+	{
+		"type": "p",
+		"value": "6 ca khúc đã được phát hành đều đánh thẳng vào nhánh teen pop - một hướng đi có đông người nghe nhưng chưa thực sự có người thống trị hay làm ra tấm ra món. AMEE nhanh chóng vươn lên ngôi vị công chúa teen pop thế hệ mới nhờ chính sự đơn giản nhưng đầy chỉn chu như thế. ",
+		"index": 2
+	},
+	{
+		"type": "p",
+		"value": "<i>Mama Boy</i> - single thứ 7 trích từ album <i>DreAMEE.</i> Nhưng lý do nào khiến nó được ra mắt khá muộn so với các chị em như thế? Đó có lẽ là do sự phức hợp trong mặt âm thanh mà bài hát mang lại khiến nó trở nên rất khác biệt so với các single khác. ",
+		"index": 3
+	},
+	{
+		"type": "videoStream",
+		"filename": "https://hls.mediacdn.vn/kenh14/2020/9/6/4_VbjN0kAfw-15993946918481183527239.mp4/master.m3u8",
+		"avatar": "https://video-thumbs.mediacdn.vn/kenh14/2020/9/6/4_VbjN0kAfw-15993946918481183527239.jpg",
+		"size": {
+			"width": 16,
+			"height": 9
+		},
+		"caption": "AMEE - M\bama Boy",
+		"index": 4
+	},
+	{
+		"type": "p",
+		"value": "Điểm qua cả 6 single trước đây của AMEE, chúng đều có điểm chung là tươi sáng, nhẹ nhàng và êm đềm. Tất cả đều được xây dựng trong một thế giới mộng mơ với những âm thanh rất đơn giản, hoặc nếu sử dụng tới nhiều âm thanh điện tử như trong <i>Yêu Thì Yêu Không Yêu Thì Yêu </i>cũng là tiếng synth 8-bit dễ thương, đáng yêu. AMEE hát về tình yêu ngọt ngào, giận hờn đáng yêu, hầu như không chạm tới những chủ đề nào quá khó khăn. Ngay cả ở single gần đây nhất Ex’s Hate Me part 2, khi cô hát về chủ đề gai góc nhưng phần âm thanh lại được đặt để vô cùng đơn giản, da diết để giữ chân cảm xúc người nghe đến cuối cùng. ",
+		"index": 5
+	},
+	{
+		"type": "simpleQuote",
+		"quote": "Ở Yêu Thì Yêu Không Yêu Thì Yêu, AMEE hát về tình yêu ngọt ngào, giận hờn đáng yêu, hầu như không chạm tới những chủ đề nào quá khó khăn. Ngay cả Ex’s Hate Me part 2, dù hát về chủ đề gai góc nhưng phần âm thanh lại được đặt để vô cùng đơn giản.",
+		"starNameCaption": "Bạn Nam",
+		"index": 6
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/amee1-1599466713889418709789.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/amee1-1599466713889418709789.jpg",
+			"size": {
+				"width": 1170,
+				"height": 700
+			}
+		},
+		"caption": "",
+		"index": 7
+	},
+	{
+		"type": "p",
+		"value": "Ngược lại, <i>Mama Boy</i> tiếp cận tới một chủ đề góc cạnh hơn hẳn những bài hát dễ thương, gần gũi thường thấy của AMEE. Không còn là cô gái đáng yêu, cute nữa, AMEE kể về một chàng trai người yêu trẻ con, dựa dẫm bằng những câu hát đầy chất châm chọc: <i>“tính cách anh hay mộng mơ nhiều/ rất thích hồn nhiên như thời niên thiếu”</i> hay <i>“Ấy thế mà đôi khi lại than phiền mấy chuyện bé như hột me”.</i>",
+		"index": 8
+	},
+	{
+		"type": "p",
+		"value": "Ở chorus, sự đáng yêu của AMEE được giữ nguyên với chất giọng trong trẻo cao vút quen thuộc với những câu hát lặp đi lặp lại: <i>“Đừng gọi em là Mama”</i>. Bài hát sử dụng một chiêu thức rất quen thuộc của K-pop khi tạo ra đoạn chorus 2 lớp, sau câu hát kể trên là một màn lặp đi lặp lại câu <i>“Mama”</i> cực kì gây nghiện. Dù có làm bất cứ thể nghiệm nào, việc giữ một hook xuyên suốt từ đầu đến cuối là thứ cốt lõi khiến AMEE thành công liên tiếp trong 6 single liên tiếp, và khả năng cao sẽ lặp lại trong single thứ 7 này. ",
+		"index": 9
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/batchhai0412-15994671709592024705681.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/batchhai0412-15994671709592024705681.jpg",
+			"size": {
+				"width": 1800,
+				"height": 1199
+			}
+		},
+		"caption": "",
+		"index": 10
+	},
+	{
+		"type": "simpleQuote",
+		"quote": "Mama Boy tiếp cận tới một chủ đề góc cạnh hơn hẳn những bài hát dễ thương, gần gũi thường thấy của AMEE. Ở chorus, sự đáng yêu của AMEEđược giữ nguyên với chất giọng trong trẻo cao vút quen thuộc với những câu hát lặp đi lặp lại. Bài hát sử dụng một chiêu thức rất quen thuộc của K-pop khi tạo ra đoạn chorus 2 lớp, sau câu hát kể trên là một màn lặp đi lặp lại câu “Mama” cực kì gây nghiện.",
+		"starNameCaption": "Bạn Nam ",
+		"index": 11
+	},
+	{
+		"type": "p",
+		"value": "Không thể không dành lời khen ngợi cho đội ngũ âm nhạc đứng sau <i>Mama Boy</i>. Như đã nói, cách họ tạo ra đoạn hook 2 lớp cực kì dày dặn và cuốn hút cho <i>Mama Boy,</i> cách họ sử dụng chính AMEE để làm đoạn rap kết nối với verse 2 tạo nên một sự liền mạch khiến cho <i>Mama Boy </i>đảm bảo mọi yếu tố để trở thành hit. ",
+		"index": 12
+	},
+	{
+		"type": "p",
+		"value": "Mặt khác, họ đặt vào <i>Mama Boy </i>rất nhiều những yếu tố độc đáo, phức hợp khác để khiến nó có thể đứng tách riêng hẳn so với các single đáng yêu, dễ thương đơn thuần khác của AMEE. Ekip khéo léo tạo ra kết cấu đầu - cuối thống nhất bằng cách sử dụng sample tiếng “trẻ em” vừa buồn cười lại cũng rất xéo sắc. <i>Mama Boy</i> cũng ngập tràn trong các tiếng backing vocal được sử dụng cực kì tinh tế, vừa làm dày thêm cho giọng hát AMEE, vừa nghe như một tiếng cười giễu của cả một hội bạn dành cho chàng trai vừa trẻ con vừa lười biếng.",
+		"index": 13
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/hai0303-1599466823954972224963.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/hai0303-1599466823954972224963.jpg",
+			"size": {
+				"width": 2000,
+				"height": 1333
+			}
+		},
+		"caption": "",
+		"index": 14
+	},
+	{
+		"type": "simpleQuote",
+		"quote": "Đoạn rap kết nối với verse 2 tạo nên một sự liền mạch khiến cho Mama Boy đảm bảo mọi yếu tố để trở thành hit. Mama Boy cũng ngập tràn trong các tiếng backing vocal được sử dụng cực kì tinh tế, vừa làm dày thêm cho giọng hát AMEE, vừa nghe như một tiếng cười giễu của cả một hội bạn dành cho chàng trai vừa trẻ con vừa lười biếng.",
+		"starNameCaption": "Bạn Nam ",
+		"index": 15
+	},
+	{
+		"type": "p",
+		"value": "Bài hát có đoạn kết phức tạp nhất trong số tất cả các bài hát của AMEE, chúng dẫn dắt và tạo ra một đoạn break dance rất ấn tượng dành riêng cho việc trình diễn. Với việc sử dụng rất nhiều rất nhiều lớp âm thanh từ cả tiếng synth điện tử, tiếng piano đến cả giọng hát của AMEE, <i>Mama Boy </i>trở thành bài hát cực kì có chiều sâu về mặt âm nhạc, phá tan định kiến teen pop đơn giản, dễ làm dễ hát. ",
+		"index": 16
+	},
+	{
+		"type": "p",
+		"value": "Dự án <i>DreAMEE</i> cho thấy rất nhiều tham vọng của AMEE và ekip St.319. Họ muốn đánh vào một thị trường âm nhạc màu mỡ, thu hút nhiều người nghe nhất có thể, nhưng đồng thời vẫn muốn làm ra một thứ âm nhạc có điểm nhấn, có cá tính riêng thu hút giới chuyên môn. Điểm dung hợp của 2 mảng đó chính là <i>Mama Boy. </i>Vừa có hook tốt, vừa có nội dung độc đáo, vừa có sự phức hợp và tính toán nhất định, không khó để nhận định <i>Mama Boy</i> là ca khúc được sản xuất tốt nhất của AMEE cho đến thời điểm hiện tại.",
+		"index": 17
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/artboard-1-6-1599470022315558680000.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/artboard-1-6-1599470022315558680000.jpg",
+			"size": {
+				"width": 800,
+				"height": 1273
+			}
+		},
+		"caption": "",
+		"index": 18
+	},
+	{
+		"type": "p",
+		"value": "<i>Nguồn: YouTube</i>",
+		"index": 19
+	}
+]

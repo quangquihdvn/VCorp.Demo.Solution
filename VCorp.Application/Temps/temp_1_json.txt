@@ -1,0 +1,447 @@
+type= gifPhoto | Photo | layoutAlbum | h2 | p
+
+20200907000956948
+20200907215929247
+
+20200907120127651
+[
+	{
+		"type": "p",
+		"value": "<i><a href='http://app.kenh14.vn/app/luu-ly-my-nhan-sat-2020.html'>Lưu Ly Mỹ Nhân Sát</a></i> đang là dự án truyền hình cổ trang được yêu thích nhất hiện tại. Phim sở hữu cốt truyện hấp dẫn, mới lạ về cặp \"chim câu\" là Chử Toàn Cơ - Vũ Tư Phượng trải qua 10 kiếp khổ ải và thảm thương để bảo vệ tình yêu của mình. Ngoài nam chính là tường thành nhan sắc tuyệt đỉnh, Lưu Ly Mỹ Nhân Sát còn có không ít trai đẹp khiến chị em vô cùng \"mát lòng mát dạ\" khi xem phim.",
+		"index": 1
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/8/25/luu-ly-4-1598288996090866492909.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/8/25/luu-ly-4-1598288996090866492909.jpg",
+			"size": {
+				"width": 1429,
+				"height": 2000
+			}
+		},
+		"caption": "",
+		"index": 2
+	},
+	{
+		"type": "h2",
+		"value": "Thành Nghị (vai Tư Phượng) - Vai chính đầu tay một phát \"ăn đậm\" dù bị hành gần hết phim",
+		"index": 3
+	},
+	{
+		"type": "p",
+		"value": "Nam chính <a href='http://app.kenh14.vn/app/thanh-nghi.html'>Thành Nghị</a> hiện đang là cái tên được yêu thích nhất từ Lưu Ly Mỹ Nhân Sát. Trong phim, anh hoá thân thành Vũ Tư Phượng - đệ tử của Ly Trạch Cung một lòng yêu nữ chính không hề thay đổi. Ngoài ra, anh chàng còn được fan ưu ái dành tặng cho danh xưng \"nam chính ăn hành nhiều nhất năm 2020\". Trải qua 10 kiếp, Tư Phượng liên tục bị đánh đập, xử tử, đâm xiên khắp người. Không có tập nào là anh chàng không \"phun máu\" hay trầy trụa đến tàn tạ.",
+		"index": 4
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-1-15994540590571302552609.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-1-15994540590571302552609.jpg",
+			"size": {
+				"width": 1620,
+				"height": 1080
+			}
+		},
+		"caption": "",
+		"index": 5
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-5-1599454059066632192582.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-5-1599454059066632192582.jpg",
+			"size": {
+				"width": 2000,
+				"height": 1125
+			}
+		},
+		"caption": "Mỗi lần thấy Tư Phượng thì miện anh đều bê bết máu",
+		"index": 6
+	},
+	{
+		"type": "p",
+		"value": "Ngoài đời, Thành Nghị là tài năng đang toả sáng của Hoan Thụy Thế Kỷ, công ty của những tên tuổi đình đám như <a href='http://app.kenh14.vn/app/duong-tu.html'>Dương Tử </a>hay <a href='http://app.kenh14.vn/app/nham-gia-luan.html'>Nhậm Gia Luân</a>. Anh chàng sinh năm 1990 từng được đạo diễn nổi tiếng Lý An khen là có đôi mắt \"sạch sẽ\", thông minh. Dù đã \"khởi nghiệp\" từ 10 năm trước nhưng đến nay Thành Nghị mới có vai chính đầu tay cùng <i>Lưu Ly Mỹ Nhân Sát</i>. Trước đó, nam diễn viên từng ghi dấu ấn nhẹ nhàng trong một số bộ cổ trang nổi tiếng như <i>Đường Cung Mỹ Nhân Thiên Hạ</i> hay <i><a href='http://app.kenh14.vn/app/thanh-van-chi.html'>Thanh Vân Chí</a></i>.",
+		"index": 7
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-4-1599454059064176752239.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-4-1599454059064176752239.jpg",
+			"size": {
+				"width": 1620,
+				"height": 1080
+			}
+		},
+		"caption": "",
+		"index": 8
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-2-1599454059059121722741.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-2-1599454059059121722741.jpg",
+			"size": {
+				"width": 695,
+				"height": 1142
+			}
+		},
+		"caption": "Thành Nghị ngoài đời cũng sở hữu thân hình bốc lửa dữ dội!",
+		"index": 9
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-3-1599454059060184681308-crop-15994541284751523970405.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-3-1599454059060184681308-crop-15994541284751523970405.jpg",
+			"size": {
+				"width": 1152,
+				"height": 1362
+			}
+		},
+		"caption": "",
+		"index": 10
+	},
+	{
+		"type": "gifPhoto",
+		"filename": "http://kenh14cdn.com/2020/8/25/luu-ly-5-15982889960931795208768.gif.mp4",
+		"avatar": "http://kenh14cdn.com/2020/8/25/luu-ly-5-15982889960931795208768.gif.png",
+		"size": {
+			"width": 400,
+			"height": 218
+		},
+		"caption": "Cảnh luyện công trong bồn tắm của Tư Phượng được khán giả chia sẻ kịch liệt",
+		"index": 11
+	},
+	{
+		"type": "h2",
+		"value": "Lưu Học Nghĩa (vai Hạo Thần) - Nam \"trà xanh\" vắng mặt trong nguyên tác nhưng khuấy đảo màn ảnh",
+		"index": 12
+	},
+	{
+		"type": "p",
+		"value": "Vừa là \"gà\" chung công ty lại vừa là bạn đồng niên của Thành Nghị, <a href='http://app.kenh14.vn/app/luu-hoc-nghia.html'>Lưu Học Nghĩa</a> cũng chính thức ghi dấu ấn sâu nét với dự án <i>Lưu Ly Mỹ Nhân Sát</i> lần này. Đặc biệt, vai diễn đầy phức tạp của anh lại không có trong bản truyện. Nhân vật lần này lại có đến 2 thân phận, một là Bạch Đế - người cai quản phía Đông của Thiên giới, và đệ tử số 1 tên Hạo Thần của Điểm Tình cốc. Trước kia, vì đã trót \"cảm nắng\" Chiến Thần (Toàn Cơ sau này) nên anh mới không chịu nổi khi bên cạnh cô xuất hiện một Vũ Tư Phượng chung tình.",
+		"index": 13
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-6-15994548894961279263582.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-6-15994548894961279263582.jpg",
+			"size": {
+				"width": 690,
+				"height": 460
+			}
+		},
+		"caption": "",
+		"index": 14
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-7-1599454889498862882547.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-7-1599454889498862882547.jpg",
+			"size": {
+				"width": 1759,
+				"height": 1194
+			}
+		},
+		"caption": "",
+		"index": 15
+	},
+	{
+		"type": "p",
+		"value": "Rối rắm là thế, song người xem lại yêu mến nhân vật của Lưu Học Nghĩa bởi những lần \"xen ngang\" vào cặp đôi nam - nữ chính. Thậm chí, giờ đây anh chàng còn có một biệt danh mới là \"Hạo trà xanh\", ý chỉ Hạo Thần luôn tìm những lý do nghe qua có vẻ hợp lý để âm thầm chia cắt Chử Toàn Cơ và Tư Phượng. Ngoài đời, anh chàng cũng không có quá nhiều dự án nổi bật trước <i>Lưu Ly Mỹ Nhân Sát</i>, ngoài ra cũng từng sánh vai với Thành Nghị ở <i>Thanh Vân Chí</i>.",
+		"index": 16
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-10-1599465967679778466956.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-10-1599465967679778466956.jpg",
+			"size": {
+				"width": 1440,
+				"height": 960
+			}
+		},
+		"caption": "Hạo Thần nổi tiếng với câu nói: \"Ta làm tất cả là vì tam giới\", nhưng \"tam giới\" của anh thật ra là Chử Toàn Cơ",
+		"index": 17
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-9-15994548895014925191.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-9-15994548895014925191.jpg",
+			"size": {
+				"width": 2000,
+				"height": 1333
+			}
+		},
+		"caption": "",
+		"index": 18
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-8-15994548895001407619326.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-8-15994548895001407619326.jpg",
+			"size": {
+				"width": 1364,
+				"height": 2048
+			}
+		},
+		"caption": "Ngoài đời, Lưu Học Nghĩa theo phong cách hiền lành và ấm áp, khác xa với một Hạo Thần tâm cơ trong Lưu Ly Mỹ Nhân Sát",
+		"index": 19
+	},
+	{
+		"type": "h2",
+		"value": "Bạch Chú (vai Đằng Xà) - Chú rắn con \"tăng động\" càng xem càng thấy cưng",
+		"index": 20
+	},
+	{
+		"type": "p",
+		"value": "Lại thêm một \"con cưng\" nữa của Hoan Thụy góp mặt trong siêu phẩm cổ trang <i>Lưu Ly Mỹ Nhân Sát</i>. <a href='http://app.kenh14.vn/app/bach-chu.html'>Bạch Chú</a> có xuất phát chậm hơn các bạn diễn trên, chỉ từng đóng qua một bộ cổ trang nổi bật là <i><a href='http://app.kenh14.vn/app/thinh-tuyet-lau-2019.html'>Thính Tuyết Lâu</a></i> có cả <a href='http://app.kenh14.vn/app/vien-bang-nghien.html'>Viên Băng Nghiên</a> tham gia diễn xuất. Lúc ấy, người ta vẫn chưa để ý lắm đến anh chàng \"tiểu thịt tươi\" tóc đen này.",
+		"index": 21
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-14-1599464374543210658810.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-14-1599464374543210658810.jpg",
+			"size": {
+				"width": 1080,
+				"height": 1620
+			}
+		},
+		"caption": "",
+		"index": 22
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/9/7/luu-ly-15-1599464374545157468680.jpg",
+			"original_img": "http://kenh14cdn.com/2020/9/7/luu-ly-15-1599464374545157468680.jpg",
+			"size": {
+				"width": 640,
+				"height": 960
+			}
+		},
+		"caption": "Với tóc đen, Bạch Chú xưa kia khó mà nổi bật giữa dàn tân binh cùng thời",
+		"index": 23
+	},
+	{
+		"type": "p",
+		"value": "Cho đến khi ra mắt với hình tượng xà tinh tóc vàng óng ánh của <i>Lưu Ly Mỹ Nhân Sát</i>, cái tên Bạch Chú mới bắt đầu được tìm kiếm liên tục. Trong phim, Đằng Xà là linh thú luôn đi bên cạnh nữ chính Chử Toàn Cơ. Phải đến cỡ giữa phim thì chú rắn đáng yêu mới hoá thành hình người. Đằng Xà tạo ấn tượng mạnh mẽ nhờ nhan sắc tuyệt đỉnh trái ngược với tính tình hiếu động, nổi loạn. Đến hiện tại, đây là nhân vật được fan \"cưng chiều\" không kém cạnh gì \"chim nhỏ\" Tư Phượng.",
+		"index": 24
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/9/7/luu-ly-11-15994643745361802371321.jpg",
+			"original_img": "http://kenh14cdn.com/2020/9/7/luu-ly-11-15994643745361802371321.jpg",
+			"size": {
+				"width": 639,
+				"height": 1384
+			}
+		},
+		"caption": "",
+		"index": 25
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-12-1599464374538730828081-crop-15994643997581433935950.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-12-1599464374538730828081-crop-15994643997581433935950.jpg",
+			"size": {
+				"width": 1080,
+				"height": 1282
+			}
+		},
+		"caption": "Mác tóc dài vàng óng khiến \"visual\" của Bạch Chú được nâng cấp nhiều bậc",
+		"index": 26
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-13-15994643745401646523442.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-13-15994643745401646523442.jpg",
+			"size": {
+				"width": 960,
+				"height": 540
+			}
+		},
+		"caption": "Tặng bạn thêm một quả nhan sắc \"bùng nổ\" chỉ có Đằng Xà là có được ở Lưu Ly Mỹ Nhân Sát!",
+		"index": 27
+	},
+	{
+		"type": "h2",
+		"value": "Phó Phương Tuấn (vai Vô Chi Kỳ) - Cực phẩm giai nhân khiến nữ hồ ly đắm đuối 1000 năm",
+		"index": 28
+	},
+	{
+		"type": "p",
+		"value": "Là một trong những phản diện nổi bật của <i>Lưu Ly Mỹ Nhân Sát</i>, Vô Chi Kỳ lại mang nét đẹp hút hồn và \"láu cá\" của một đại ác ma thật sự. Có lẽ vì thế nên cô nàng Tử Hồ (Hầu Mộng Dao) mới không dứt được hắn suốt 10 kiếp dài đằng đẵng.",
+		"index": 29
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/9/7/luu-ly-18-15994652196061154971195.jpg",
+			"original_img": "http://kenh14cdn.com/2020/9/7/luu-ly-18-15994652196061154971195.jpg",
+			"size": {
+				"width": 341,
+				"height": 512
+			}
+		},
+		"caption": "",
+		"index": 30
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-20-1599465219610446197306.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-20-1599465219610446197306.jpg",
+			"size": {
+				"width": 1024,
+				"height": 683
+			}
+		},
+		"caption": "Phó Phương Tuấn cũng là một trường hợp được \"thăng hạng\" nhan sắc nhờ tóc dài cổ trang",
+		"index": 31
+	},
+	{
+		"type": "p",
+		"value": "Trước đó, <a href='http://app.kenh14.vn/app/pho-phuong-tuan.html'>Phó Phương Tuấn</a> từng khiến khán giả trầm trồ với một vai phản diện khác. Đó là nhân vật ma vương phá hoại tam giới trong <i><a href='http://app.kenh14.vn/app/thien-ke-chi-truyen-thuyet-bach-xa-2018.html'>Thiên Kê Chi Truyền Thuyết Bạch Xà</a></i>, thế nhưng tạo hình quá đen tối và hầm hố của anh bấy giờ chưa thu hút được người xem. Mãi đến khi Vô Chi Kỳ xuất hiện thì nhan sắc của Phó Phương Tuấn mới thật sự phát huy mạnh mẽ.",
+		"index": 32
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-21-1599465332062125087141.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-21-1599465332062125087141.jpg",
+			"size": {
+				"width": 2000,
+				"height": 1333
+			}
+		},
+		"caption": "Phó Phương Tuấn trong Truyền Thuyết Bạch Xà năm xưa",
+		"index": 33
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-16-1599465219600173895037.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-16-1599465219600173895037.jpg",
+			"size": {
+				"width": 840,
+				"height": 1262
+			}
+		},
+		"caption": "Vô Chi Kỳ với khí chất cực phẩm được fan dự đoán có thể lấn át cả nam chính Tư Phượng",
+		"index": 34
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-17-1599465219603263195720.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-17-1599465219603263195720.jpg",
+			"size": {
+				"width": 2000,
+				"height": 1123
+			}
+		},
+		"caption": "Câu chuyện giữa Vô Chi Kỳ và Tử Hồ cũng khiến khán giả khóc hết nước mắt",
+		"index": 35
+	},
+	{
+		"type": "h2",
+		"value": "Hàn Thừa Vũ (vai Liễu Ý Hoan) - \"Tiên tri vũ trụ\" hứa không spoil kết phim trước đâu!",
+		"index": 36
+	},
+	{
+		"type": "p",
+		"value": "<a href='http://app.kenh14.vn/app/han-thua-vu.html'>Hàn Thừa Vũ</a> là cái tên cũng có tiếng ở làng phim Hoa ngữ thời gian qua. Anh từng góp mặt trong một số dự án như <i><a href='http://app.kenh14.vn/app/khong-phai-hoa-chang-phai-suong-2012.html'>Không Phải Hoa, Chẳng Phải Sương</a></i>, <i>Đạo Mộ Bút Ký 2: Nộ Hải Tiềm Sa</i>, hay nổi bật nhất với vai diễn kẻ phản bội Diệp Mặc Thanh trong <i>Long Châu Truyền Kỳ</i>. Đến năm 2020, anh cũng \"góp vui\" trong <i>Lưu Ly Mỹ Nhân Sát </i>với vai Liễu Ý Hoan.",
+		"index": 37
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-22-1599465844704691462092.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-22-1599465844704691462092.jpg",
+			"size": {
+				"width": 811,
+				"height": 1200
+			}
+		},
+		"caption": "",
+		"index": 38
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-24-15994658447081821758180-crop-15994673593081336566278.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-24-15994658447081821758180-crop-15994673593081336566278.jpg",
+			"size": {
+				"width": 960,
+				"height": 1078
+			}
+		},
+		"caption": "",
+		"index": 39
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-26-1599465844711674913527.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-26-1599465844711674913527.jpg",
+			"size": {
+				"width": 2000,
+				"height": 3000
+			}
+		},
+		"caption": "Hàn Thừa Vũ mang \"thiên nhãn\" trong Lưu Ly Mỹ Nhân Sát",
+		"index": 40
+	},
+	{
+		"type": "p",
+		"value": "Trong phim, Hàn Thừa Vũ vào vai \"cha hờ\" của Vũ Tư Phượng, mặc cho ngoài đời anh chàng lại nhỏ hơn Thành Nghị 1 tuổi. Ngoài ra, Liễu Ý Hoan còn là nhân vật duy nhất đến hiện tại có \"thiên nhãn\", tức đôi mắt thứ 3 nhìn thấu hồng trần. Tuy nhiên, anh không thể tiết lộ gì cả vì đó là bí mật của thiên giới. Nói cách khác, Liễu Ý Hoan đang là người biết được cái kết của <i>Lưu Ly Mỹ Nhân Sát</i> nhưng không thể nói ra đấy!",
+		"index": 41
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-23-15994658447061557770869.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-23-15994658447061557770869.jpg",
+			"size": {
+				"width": 1024,
+				"height": 1480
+			}
+		},
+		"caption": "",
+		"index": 42
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-25-1599465844709651274389.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/9/7/luu-ly-25-1599465844709651274389.jpg",
+			"size": {
+				"width": 800,
+				"height": 1069
+			}
+		},
+		"caption": "Hàn Thần Vũ ngoài đời cũng khá quyến rũ va nổi loạn đấy!",
+		"index": 43
+	},
+	{
+		"type": "p",
+		"value": "<i>Lưu Ly Mỹ Nhân Sát</i> lên sóng vào Chủ Nhật, thứ Hai, thứ Ba và thứ Tư hằng tuần.",
+		"index": 44
+	},
+	{
+		"type": "p",
+		"value": "<i>Nguồn ảnh: Tổng hợp</i>",
+		"index": 45
+	}
+]

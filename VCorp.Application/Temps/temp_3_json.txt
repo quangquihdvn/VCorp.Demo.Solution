@@ -1,0 +1,414 @@
+type= content | layoutAlbum | h3 | p
+
+20200907140946729
+20200907180339626
+
+20200907233755037
+[
+	{
+		"type": "p",
+		"value": "Nếu mùa xuân ở Sa Pa làm du khách lưu luyến khi nghĩ về hoa đào, hoa ban, mùa đông Sa Pa mang đến nét lãng mạn với làn tuyết trắng xóa mộng mơ, thì các tín đồ xê dịch đến với Sa Pa vào mùa thu sẽ không thể nào quên được vẻ đẹp của những thửa ruộng bậc thang chín nhuộm vàng cả núi rừng nơi đây.",
+		"index": 1
+	},
+	{
+		"type": "p",
+		"value": "Năm 2009, tạp chí du lịch danh tiếng Travel and Leisure của Mỹ đã bình chọn ruộng bậc thang vào mùa lúa chín Sa Pa là 1 trong 7 ruộng bậc thang đẹp nhất châu Á và thế giới. Quả thật không ngoa, đến với Sa Pa vào mùa lúa chín, bạn sẽ bị hớp hồn bởi sắc vàng ươm của mùa màng rực rỡ giữa vùng núi non trùng điệp. ",
+		"index": 2
+	},
+	{
+		"type": "p",
+		"value": "Tuy nhiên để chiêm ngưỡng được vẻ đẹp mê hồn này của ruộng lúa chín, chúng ta sẽ phải di chuyển đoạn đường khá xa ra khỏi trung tâm Sa Pa. Để thuận tiện hơn cho \"team lười\", sao không thử ở trong các homestay dưới bản để buổi sáng chỉ cần mở mắt ra là đã có thể ngắm những ruộng lúa mênh mang tuyệt đẹp?",
+		"index": 3
+	},
+	{
+		"type": "h3",
+		"value": "Lee’s House Stay Boutique",
+		"index": 4
+	},
+	{
+		"type": "p",
+		"value": "Lee’s House là một homestay mang hơi hướng resort mini thu nhỏ nằm giữa bản Tả Van, cách trung tâm Sa Pa khoảng 7km. Với phong cách trang trí cầu kỳ, phá cách kết hợp giữa sự sang trọng và nét độc đáo trong văn hóa địa phương đậm chất Tây Bắc mang đến cho du khách một cảm giác vừa mới mẻ nhưng cũng rất ấm cúng khi nghỉ dưỡng tại đây.",
+		"index": 5
+	},
+	{
+		"type": "p",
+		"value": "Lee’s House được các bạn trẻ ưu ái đặt cho cái tên \"Thiên đường sống ảo không góc chết\" vì ở đây mỗi khung hình đều như một tác phẩm nghệ thuật. Mỗi phòng đều nhìn ra khung cảnh tuyệt đẹp của thung lũng Mường Hoa cùng những thửa ruộng bậc thang mênh mông.",
+		"index": 6
+	},
+	{
+		"type": "layoutAlbum",
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/1-1599495771955129077313.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/1-1599495771955129077313.jpg",
+						"size": {
+							"width": 1300,
+							"height": 877
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/2-1599495771958449363200.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/2-1599495771958449363200.jpg",
+						"size": {
+							"width": 2000,
+							"height": 1404
+						}
+					}
+				]
+			},
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/3-15994957719611290015317.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/3-15994957719611290015317.jpg",
+						"size": {
+							"width": 1440,
+							"height": 1080
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/4-15994957719631880060940.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/4-15994957719631880060940.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1440
+						}
+					}
+				]
+			}
+		],
+		"caption": "@Lee’s House Page",
+		"index": 7
+	},
+	{
+		"type": "content",
+		"value": [
+			"Địa chỉ: Bản Tả Van, Sa Pa, Lào Cai"
+		],
+		"index": 8
+	},
+	{
+		"type": "h3",
+		"value": "Eco Palms House",
+		"index": 9
+	},
+	{
+		"type": "p",
+		"value": "Cách trung tâm thị xã Sa Pa khoảng 6km, Eco Palms House như một bản làng nhỏ ẩn mình giữa đồng lúa Mường Hoa thơm ngát. Mỗi bungalow ở đây xây dựng với sàn gỗ, trần tre, tường bằng bùn và mái lợp từ lá cọ.",
+		"index": 10
+	},
+	{
+		"type": "p",
+		"value": "Không gian mở \"hòa mình với thiên nhiên\", mỗi phòng đều có ban công riêng và bao quanh đều là ruộng lúa. Nhưng không vì vậy mà mất đi sự riêng tư của du khách, bungalow được xây dựng đơn lập, cách nhau từ 3-5m, không chỉ mang đến cho bạn những trải nghiệm không gian thiên nhiên Sa Pa đích thực, mà còn tạo nên một khu nghỉ dưỡng riêng tư.",
+		"index": 11
+	},
+	{
+		"type": "layoutAlbum",
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/6-15994958356821992539851.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/6-15994958356821992539851.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1350
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/7-15994958356861049929046.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/7-15994958356861049929046.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1350
+						}
+					}
+				]
+			},
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/8-1599495835692507261700.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/8-1599495835692507261700.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1080
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/9-1599495835695914447456.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/9-1599495835695914447456.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1350
+						}
+					}
+				]
+			}
+		],
+		"caption": "@melissaaolvr, @sanghyun._.lee, @ecopalmshouse, @sanghyun._.lee",
+		"index": 12
+	},
+	{
+		"type": "content",
+		"value": [
+			"Địa chỉ: Lao Chải, Sa Pa, Lào Cai"
+		],
+		"index": 13
+	},
+	{
+		"type": "h3",
+		"value": "Topas Ecoloudge Sa Pa",
+		"index": 14
+	},
+	{
+		"type": "p",
+		"value": "Topas Ecolodge Sa Pa là khu nghỉ dưỡng sinh thái được xây dựng với mục đích đưa du khách rời xa khỏi với cuộc sống ồn ào của đô thị để đến gần hơn với thiên nhiên. Địa điểm này cách trung tâm Sa Pa cách khoảng 18km, thuộc xã Thanh Kim.",
+		"index": 15
+	},
+	{
+		"type": "p",
+		"value": "Nơi đây có 25 phòng được thiết kế theo phong cách nhà sàn truyền thống với nội thất gỗ, đá mộc mạc, tạo cảm giác gần gũi với thiên nhiên ngay khi vừa bước vào phòng. Mỗi phòng đều có cửa sổ và ban công nhìn ra nhiều hướng khác nhau. Ngoài ngắm ruộng bậc thang, ở đây còn có cả bể bơi vô cực, bạn có thể thả mình thư giãn giữa những làn mây của rừng núi Sa Pa.",
+		"index": 16
+	},
+	{
+		"type": "layoutAlbum",
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/14-1599495888971423424520.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/14-1599495888971423424520.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1080
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/13-1599495888965374668512.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/13-1599495888965374668512.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1080
+						}
+					}
+				]
+			},
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/12-1599495888962641095624.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/12-1599495888962641095624.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1080
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/11-15994958889562016409215.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/11-15994958889562016409215.jpg",
+						"size": {
+							"width": 1500,
+							"height": 1000
+						}
+					}
+				]
+			},
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/10-15994958889501857019365.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/10-15994958889501857019365.jpg",
+						"size": {
+							"width": 1080,
+							"height": 810
+						}
+					}
+				]
+			}
+		],
+		"caption": "@Topas Ecolodge Page, @kimsongtwo",
+		"index": 17
+	},
+	{
+		"type": "content",
+		"value": [
+			"Địa chỉ: Thanh Kim, Sa Pa, Lào Cai"
+		],
+		"index": 18
+	},
+	{
+		"type": "h3",
+		"value": "Phơri’s House",
+		"index": 19
+	},
+	{
+		"type": "p",
+		"value": "Nép mình giữa thung lũng Tả Van mộng mơ, Phơri's House khoác lên mình vẻ ngoài giản dị nhưng lại mang đến cho du khách cảm giác khác biệt đến lạ kỳ. Cách thị trấn Sa Pa chừng 10km, Phơri’s House hay còn gọi là Nhà của Phơri là một điểm đến không thể bỏ lỡ.",
+		"index": 20
+	},
+	{
+		"type": "p",
+		"value": "Nhiều người tìm đến Phơri's House đơn giản là muốn trốn cái sự xô bồ của thành thị. Nơi đây cho bạn cảm giác bình yên như được trở về nhà sau những ngày mệt nhoài với thế giới ngoài kia. Với lợi thế không gian xung quanh thoáng đãng, view rộng bao quát, ở bất kỳ vị trí nào của homestay, bạn cũng có thể phóng tầm nhìn ra thiên nhiên xanh mướt cùng với trải nghiệm ngắm nhìn từng thửa ruộng vàng rực một khoảng trời vào mùa lúa chín Sa Pa.",
+		"index": 21
+	},
+	{
+		"type": "p",
+		"value": "Còn gì tuyệt hơn là sớm mai thức dậy vừa nhâm nhi một tách trà nóng, vừa ngắm nhìn những thửa ruộng bậc thang chín vàng cùng thưởng thức mùi lúa thơm thoang thoảng từ xa?",
+		"index": 22
+	},
+	{
+		"type": "layoutAlbum",
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/19-15994961428081174678055.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/19-15994961428081174678055.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1080
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/20-15994961428121765180401.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/20-15994961428121765180401.jpg",
+						"size": {
+							"width": 1080,
+							"height": 810
+						}
+					}
+				]
+			},
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/21-159949614281895562673.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/21-159949614281895562673.jpg",
+						"size": {
+							"width": 960,
+							"height": 720
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/22-15994961428221004117160.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/22-15994961428221004117160.jpg",
+						"size": {
+							"width": 1080,
+							"height": 607
+						}
+					}
+				]
+			}
+		],
+		"caption": "@phorishouse, @tunghyper",
+		"index": 23
+	},
+	{
+		"type": "content",
+		"value": [
+			"Địa chỉ: Tả Van, Sa Pa, Lào Cai"
+		],
+		"index": 24
+	},
+	{
+		"type": "h3",
+		"value": "Sapa Clay House",
+		"index": 25
+	},
+	{
+		"type": "p",
+		"value": "Nằm trên bản Tả Van, cách trung tâm thị trấn Sa Pa khoảng 8km, Sapa Clay House cũng là một địa điểm rất được yêu thích nhờ vị trí đẹp, thuận tiện đi lại, phong cách thiết kế tinh tế, gần gũi và đặc biệt là có view ngắm nhìn thiên nhiên Tây Bắc rất đáng \"đồng tiền bát gạo\".",
+		"index": 26
+	},
+	{
+		"type": "p",
+		"value": "Từ homestay, chỉ cần mở của sổ hoặc ra ban công, bạn cũng có thể nhìn bao quát toàn cảnh Sa Pa từ trên cao. Bên cạnh việc thưởng lãm vẻ đẹp ruộng lúa chín, bạn còn có thể có cơ hội săn mây tại Sapa Clay House. ",
+		"index": 27
+	},
+	{
+		"type": "layoutAlbum",
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/27-1599496225787697110576.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/27-1599496225787697110576.jpg",
+						"size": {
+							"width": 1080,
+							"height": 810
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/28-15994962257891718550217.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/28-15994962257891718550217.jpg",
+						"size": {
+							"width": 1024,
+							"height": 1280
+						}
+					}
+				]
+			},
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/29-15994962257921044434696.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/29-15994962257921044434696.jpg",
+						"size": {
+							"width": 1081,
+							"height": 723
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/30-15994962257941689949766.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/30-15994962257941689949766.jpg",
+						"size": {
+							"width": 1080,
+							"height": 1080
+						}
+					}
+				]
+			},
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/9/7/31-1599496225797950704026.jpg",
+						"original_img": "http://kenh14cdn.com/2020/9/7/31-1599496225797950704026.jpg",
+						"size": {
+							"width": 1080,
+							"height": 807
+						}
+					}
+				]
+			}
+		],
+		"caption": "@minmin_toh, @es.ts_, @heeeeyon, @ jacquelinefoong, @d0ng_yeop",
+		"index": 28
+	},
+	{
+		"type": "content",
+		"value": [
+			"Địa chỉ: TL152, Lao Chải, Sa Pa, Lào Cai"
+		],
+		"index": 29
+	},
+	{
+		"type": "p",
+		"value": "Vùng đất Sa Pa luôn biết cách níu chân du khách bằng chính những vẻ đẹp vốn có. Mùa lúa chín Sa Pa chỉ kéo dài 2-3 tuần thôi. Hẹn hò ngay với Sa Pa tháng 9 này để được tận hưởng và chiêm ngưỡng khung cảnh hùng vĩ đẹp nhất trong năm của Tây Bắc nhé!",
+		"index": 30
+	}
+]

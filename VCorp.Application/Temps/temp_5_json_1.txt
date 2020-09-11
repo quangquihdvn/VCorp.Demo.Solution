@@ -1,0 +1,91 @@
+type = videostream + [layout]square
+
+20200907123225276
+20200907194319528
+
+20200907163426077
+[
+	{
+		"type": "p",
+		"value": "Trên trang cá nhân mới đây, <a href='http://app.kenh14.vn/app/ngan-98.html'>Ngân 98</a> và <a href='http://app.kenh14.vn/app/luong-bang-quang.html'>Lương Bằng Quang</a> đã khiến cư dân mạng phải lắc đầu ngán ngẩm khi livestream nói về bí quyết để giữ gìn tình yêu lâu dài và mạnh dạn chia sẻ chi tiết về chuyện \"giường chiếu\". Trên sóng trực tiếp, Ngân 98 và Lương Bằng Quang đã gây gốc tuyên bố rằng chuyện \"giường chiếu\" là yếu tố cực kỳ quan trọng nếu muốn yêu nhau hạnh phúc, tiết lộ số lần quan hệ.",
+		"index": 1
+	},
+	{
+		"type": "p",
+		"value": "Tiếp lời Ngân 98, Lương Bằng Quang cũng khẳng định chính sự tự tin trong chuyện \"giường chiếu\" đã giúp anh có được bạn gái trẻ trung, xinh đẹp dù đã 40 tuổi. Chưa hết, cả hai còn có hành động ôm ấp với tư thế phản cảm trong suốt buổi livestream.",
+		"index": 2
+	},
+	{
+		"type": "videoStreamSquare",
+		"filename": "https://hls.mediacdn.vn/kenh14/2020/9/7/img0902-1599470640564123888908-02432.mp4/master.m3u8",
+		"avatar": "https://video-thumbs.mediacdn.vn/kenh14/2020/9/7/img0902-1599470640564123888908-02432.jpg",
+		"size": {
+			"width": 550,
+			"height": 550
+		},
+		"caption": "Clip: Ngân 98 và Lương Bằng Quang gây sốc khi nói về chuyện \"giường chiếu\" trên sóng livestream (Nguồn: Facebook nhân vật)",
+		"index": 3
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/9/7/page-15994659197822066538903-1599469592743597271695.jpg",
+			"original_img": "http://kenh14cdn.com/2020/9/7/page-15994659197822066538903-1599469592743597271695.jpg",
+			"size": {
+				"width": 640,
+				"height": 400
+			}
+		},
+		"caption": "Cả hai chia sẻ về chuyện nhạy cảm và liên tục có những hành động ôm ấp phản cảm",
+		"index": 4
+	},
+	{
+		"type": "p",
+		"value": "Hành động mang tính chất 18+ này của cả hai đã lập tức vấp phải vô vàn ý kiến trái chiều từ khán giả. Có thể nói, đành rằng MXH là nơi thể hiện cá tính và không ai cấm cản việc một cá nhân livestream tương tác. Thế nhưng, mọi thứ nên chỉ dừng lại ở một giới hạn nhất định để không gây ảnh hưởng đến bản thân, gây phản cảm cho người xem.",
+		"index": 5
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/9/7/annotation-2020-09-07-162559-1599470957127755342128-15994710061721754771559.png",
+			"original_img": "http://kenh14cdn.com/2020/9/7/annotation-2020-09-07-162559-1599470957127755342128-15994710061721754771559.png",
+			"size": {
+				"width": 845,
+				"height": 420
+			}
+		},
+		"caption": "Nhiều ý kiến tỏ ra phẫn nộ trước chia sẻ của Ngân 98 và Lương Bằng Quang",
+		"index": 6
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/9/7/image-2020-05-06-223220-1588779204061149185740-15994701774291935302935.jpg",
+			"original_img": "http://kenh14cdn.com/2020/9/7/image-2020-05-06-223220-1588779204061149185740-15994701774291935302935.jpg",
+			"size": {
+				"width": 620,
+				"height": 858
+			}
+		},
+		"caption": "",
+		"index": 7
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/9/7/ngan-98-livestream-phan-cam-duoc-chu-luong-bang-quang-giup-mac-d-c4a29e-158877935846763232023-159947017743647198342.jpg",
+			"original_img": "http://kenh14cdn.com/2020/9/7/ngan-98-livestream-phan-cam-duoc-chu-luong-bang-quang-giup-mac-d-c4a29e-158877935846763232023-159947017743647198342.jpg",
+			"size": {
+				"width": 620,
+				"height": 1102
+			}
+		},
+		"caption": "Ngân 98 và Lương Bằng Quang đã nhiều lần có những hành động quá khích trên sóng livestream",
+		"index": 8
+	},
+	{
+		"type": "p",
+		"value": "<i>Ảnh: Chụp màn hình, Facebook nhân vật</i>",
+		"index": 9
+	}
+]

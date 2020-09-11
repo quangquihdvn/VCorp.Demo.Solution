@@ -1,0 +1,649 @@
+type =  PhotoGallery3 | photo | gifPhoto | videoStream | p
+
+
+20200730135957299
+[
+	{
+		"type": "p",
+		"value": "'Đều như vắt chanh', mỗi năm OPPO lại ra mắt tới 2 thế hệ gồm 2 phiên bản của sản phẩm Reno - những smartphone cận cao cấp được hướng tới những người dùng trẻ. Trong đó phiên bản <b><i>Reno4 </i></b>sẽ là lựa chọn 'bình dân hơn, sẽ có một chút cắt giảm so với Reno4 Pro đã có rất nhiều những thay đổi theo dạng 'lột xác' hoàn toàn.",
+		"index": 1
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-29-1596091764996100437938.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-29-1596091764996100437938.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 2
+	},
+	{
+		"type": "p",
+		"value": "Nhưng không phải vì vậy mà đây không phải là một smartphone đáng để tìm hiểu. So với Reno3 của đầu năm nay, Reno4 đã có những bước tiến 'nho nhỏ' về đúng hướng cả từ phần cứng lẫn phần mềm nhằm nâng cao trải nghiệm của người dùng. Vậy những tay đổi này là gì, chúng ta sẽ cùng tìm hiểu ngay sau đây!",
+		"index": 3
+	},
+	{
+		"type": "p",
+		"value": "<b><i>Thiết kế đã 'óng ánh', không còn nhàm chán</i></b>",
+		"index": 4
+	},
+	{
+		"type": "p",
+		"value": "Một trong những điểm người dùng phàn nàn nhiều nhất về Reno3 và Reno3 Pro đó là những chiếc máy này có thiết kế khá nhàm chán, mặc dù hướng tới giới trẻ, thuộc phân khúc đã 'cận cao cấp' nhưng lại không khác nhiều các dòng máy bình dân hoặc tầm trung.",
+		"index": 5
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-33-1596091765002489655386.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-33-1596091765002489655386.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 6
+	},
+	{
+		"type": "p",
+		"value": "Reno4 là câu trả lời cho mong mỏi này, đã 'lấp lánh' và 'óng ánh' hơn khá nhiều. Về mặt hoàn thiện, máy được làm bằng nhựa ở cả mặt sau và khung viền, cầm khá nhẹ tay nhưng đủ chắc chắn, không cho cảm giác rẻ tiền.",
+		"index": 7
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-32-15960917650001943852564.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-32-15960917650001943852564.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 8
+	},
+	{
+		"type": "p",
+		"value": "Máy có 2 phiên bản màu sắc với kiểu mặt lưng khác nhau, với màu xanh sẽ được hoàn thiện theo kiểu sần (matte), còn phiên bản màu đen này thì lại có mặt lưng bóng. Ở dưới dáy cho những logo OPPO cách điệu, không phải lúc nào cũng hiên ra mà phải ra nắng, chiếu đúng góc ta mới thấy được.",
+		"index": 9
+	},
+	{
+		"type": "gifPhoto",
+		"filename": "http://kenh14cdn.com/2020/7/30/ong-anh-15960917649601727954291.gif.mp4",
+		"avatar": "http://kenh14cdn.com/2020/7/30/ong-anh-15960917649601727954291.gif.png",
+		"size": {
+			"width": 800,
+			"height": 450
+		},
+		"caption": "",
+		"index": 10
+	},
+	{
+		"type": "p",
+		"value": "Cách trang trí này tôi cho là khá đẹp, màu sắc trung tính nên không bị 'lố', nhưng nếu ta để ý kỹ vẫn thấy được những nét chấm phá trẻ trung. Phiên bản mặt lưng bóng đương nhiên là sẽ bám nhiều vân tay hơn bản mặt lưng nhám, nên để máy sạch sẽ mà vẫn hiện ra các họa tiết đẹp mắt có lẽ ta nên dùng thêm ốp lưng trong suốt.",
+		"index": 11
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-16-1596091764978233658315.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-16-1596091764978233658315.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 12
+	},
+	{
+		"type": "p",
+		"value": "Cụm camera cũng đã được thiết kế lại, với từng chiếc được đặt lồi lên khỏi thân máy giống với những chiếc máy cao cấp mới ra mắt trong thời gian gần đây, thay vì đặt phẳng thành 1 cụm.",
+		"index": 13
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-25-15960917649901508378978.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-25-15960917649901508378978.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 14
+	},
+	{
+		"type": "p",
+		"value": "Điểm tôi rất thích trong thiết kế của Reno4 nói riêng và các máy của OPPO nói chung đó là các nút bấm nguồn, nút bấm chỉnh âm lượng đều được đặt ở vị trí thấp, dễ dàng bấm kể cả với những người có tay nhỏ nhất.",
+		"index": 15
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-15-15960917649761797456522.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-15-15960917649761797456522.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 16
+	},
+	{
+		"type": "p",
+		"value": "Cạnh đáy ta có 1 ưu điểm và 1 nhược điểm, cả 2 đều về âm thanh. Mặc dù giữ lại cổng nghe nhạc có dây 3.5mm - hiện đã khá hiếm với những dòng smartphone thế hệ mới, nhưng Reno4 lại chỉ có một loa ngoài mono ở dưới đáy, không dùng thêm loa thoại để tạo ra loa kép giống như chiếc OPPO A92 cũng mới ra mắt gần đây.",
+		"index": 17
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-20-1596091764983983033786.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-20-1596091764983983033786.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 18
+	},
+	{
+		"type": "p",
+		"value": "Mặt sau được 'tân trang' thì mặt trước cũng có những sự thay đổi. Ta vẫn sẽ có màn hình 6.4 inch AMOLED độ phân giải FullHD+, nhưng thay vì có vết cắt hình giọt nước thì ta có chấm đục lỗ ở bên tay trái. Đây là một màn hình có chất lượng hiển thị cao, với màu sắc đậm đà, không bị ngả vàng hay xanh cũng như độ sáng đủ để sử dụng được ngoài trời.",
+		"index": 19
+	},
+	{
+		"type": "p",
+		"value": "Thứ mà Reno4 vẫn còn thiếu đó là một màn hình với tần số làm tươi cao (trên 60Hz), điều mà OPPO cũng đã áp dụng vào bộ đôi sản phẩm cao cấp Find X2/X2 Pro và cả phiên bản cao cấp hơn của dòng máy này là Reno4 Pro. Tính năng này quả thực đem lại khá nhiều sự khác biệt trong quá trình sử dụng, đáng tiếc là ta sẽ phải dòng mắt đắt tiền hơn để được trải nghiệm.",
+		"index": 20
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-30-15960917649981649653119.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-30-15960917649981649653119.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 21
+	},
+	{
+		"type": "p",
+		"value": "Chấm đục lỗ trên màn hình Reno4 khá nhỏ nhắn, nhưng lại có tới 2 camera, trong đó có camera selfie 32MP và một cảm biến 'AI', ngoài việc dùng để hỗ trợ việc chụp chân dung xóa phông thì còn phục vụ cho những tính năng phụ trợ mà chỉ Reno4 sở hữu, ta sẽ tìm hiểu sau.",
+		"index": 22
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-14-15960917649741875076265.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-14-15960917649741875076265.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 23
+	},
+	{
+		"type": "p",
+		"value": "Bên dưới màn hình này là một cảm biến vân tay, như đã tìm hiểu nhiều lần thì cảm biến vân tay trên những sản phẩm Reno luôn có chất lượng tốt, gần như chỉ chạm nhẹ tay là ta đã vào được màn hình chính rồi, không có những sự chậm trễ khó chịu.",
+		"index": 24
+	},
+	{
+		"type": "p",
+		"value": "<b><i>Camera chụp tĩnh ở mức khá, nhiều tính năng cho quay phim</i></b>",
+		"index": 25
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-23-15960917649871439058813.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-23-15960917649871439058813.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 26
+	},
+	{
+		"type": "p",
+		"value": "Khi nhìn vào cụm camera của Reno4, nhiều người sẽ nghĩ máy chỉ có 3 camera, thua 1 camera so với 'đàn anh' Reno4 Pro. Nhưng nếu để ý kỹ, ta thấy rằng có 1 camera nhỏ nhắn nữa ở phía bên cạnh, biến đây thành cụm camera gồm 4 chiếc. 4 camera này bao gồm camera siêu rộng 8MP, camera chính độ phân giải cao 48MP, camera hỗ trợ chụp gần 2MP và một cảm biến đen trắng 2MP.",
+		"index": 27
+	},
+	{
+		"type": "gifPhoto",
+		"filename": "http://kenh14cdn.com/2020/7/30/anh-tu-reno4-1-15960920285231752588331.gif.mp4",
+		"avatar": "http://kenh14cdn.com/2020/7/30/anh-tu-reno4-1-15960920285231752588331.gif.png",
+		"size": {
+			"width": 1100,
+			"height": 825
+		},
+		"caption": "Những bước zoom của Reno4: siêu rộng, 1x, 2x và 5x",
+		"index": 28
+	},
+	{
+		"type": "p",
+		"value": "Các bạn có lẽ cũng đã nhận ra rằng, chiếc máy này thiếu đi khả năng zoom xa nhờ camera tele, nên để thực hiện điều này máy sẽ phải thực hiện zoom điện tử. Dùng trên thực tế, trong điều kiện đầy đủ sáng thì những bức ảnh 2x vẫn có độ nét rất tốt, lên tới 5x thì sẽ mờ đi nhưng vẫn nằm ở mức chấp nhận được. Ngược lại ở những điều kiện thiếu sáng, tôi không tự tin zoom máy quá 2x, vì chất lượng ảnh sẽ bị giảm đi hơi nhiều.",
+		"index": 29
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-13-15960920486342074879075-15960927651921806634457.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-13-15960920486342074879075-15960927651921806634457.png",
+			"size": {
+				"width": 2000,
+				"height": 1500
+			}
+		},
+		"caption": "",
+		"index": 30
+	},
+	{
+		"type": "p",
+		"value": "Cũng tương tự như vậy, camera góc siêu rộng sẽ thể hiện được hết khả năng của mình trong những điều kiện đầy đủ ánh sáng, vì dù sao đây cũng là camera có chất lượng thấp hơn camera chính.",
+		"index": 31
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-9-15960920486281416458064-1596092772355141418720.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-9-15960920486281416458064-1596092772355141418720.png",
+			"size": {
+				"width": 2000,
+				"height": 1500
+			}
+		},
+		"caption": "",
+		"index": 32
+	},
+	{
+		"type": "p",
+		"value": "Điểm đáng khen của camera góc siêu rộng trên Reno4 đó là khả năng tái tạo ánh sáng (HDR) ở mức tốt, không giữ được toàn bộ chi tiết ở những tán lá trong bức ảnh phía trên, song những vùng chỉ 'hơi tối' và vùng sáng là các đám mây trên bầu trời đều chỉ vừa đúng sáng chứ không cháy.",
+		"index": 33
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-4-1596092048619648532638-15960927830521371773202.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-4-1596092048619648532638-15960927830521371773202.png",
+			"size": {
+				"width": 2000,
+				"height": 748
+			}
+		},
+		"caption": "Chế độ 48MP và 12MP quả thực là không có sự khác biệt, dù ta có zoom lớn đến mấy!",
+		"index": 34
+	},
+	{
+		"type": "p",
+		"value": "Camera chính của Reno4 có độ phân giải lên tới 48MP, và trong các điều kiện thông thường thì giảm xuống 12MP. Sau khi chụp 2 bức ảnh cùng 1 cảnh ở cả 2 chế độ, tôi không thấy được sự khác biệt nhiều, dù có zoom lên khá lớn vào những chi tiết nhỏ như chữ viết trên tấm bảng trong ảnh trên.",
+		"index": 35
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-7-15960920486241214535597-1596092790510865578050.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-7-15960920486241214535597-1596092790510865578050.png",
+			"size": {
+				"width": 2000,
+				"height": 1500
+			}
+		},
+		"caption": "",
+		"index": 36
+	},
+	{
+		"type": "p",
+		"value": "Tin vui đó là kể cả ở chế độ chụp mặc định, camera chính của Reno4 cũng có thể cho ra những bức ảnh với chất lượng cao. Trong ảnh chụp chú mèo trên, tôi chụp trong điều kiện ánh sáng yếu, có đèn vàng (thường ảnh hưởng đến đo sáng, cân bằng trắng), Reno4 vẫn tạo ra ảnh nét cao (thấy được từng cọng lông trên mặt chú mèo), không bị ngả màu, nhìn khá sạch sẽ.",
+		"index": 37
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-1-1596092048614468329637-1596092801080215815129.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-1-1596092048614468329637-1596092801080215815129.png",
+			"size": {
+				"width": 2000,
+				"height": 746
+			}
+		},
+		"caption": "Chụp điều kiện thiếu sáng ở chế độ tự động (trái) và Night Mode (phải)",
+		"index": 38
+	},
+	{
+		"type": "p",
+		"value": "Ở những trường hợp ánh sáng quá yếu, đã có tính năng Night Mode 'cứu cánh'. Tính năng này ở Reno4 hoạt động khá hiệu quả, giảm được độ sáng của cả vùng sáng (bóng đèn đường) và 'kéo' những vùng tối lên. Đôi lúc tính năng này hoạt động 'quá hiệu quả' nên ảnh có hơi phẳng và thiếu tương phản, ta cũng có thể dễ dàng thêm vào sau khi đã chụp.",
+		"index": 39
+	},
+	{
+		"type": "p",
+		"value": "<b><i>Một vài hình ảnh khác được chụp từ OPPO Reno4:</i></b>",
+		"index": 40
+	},
+	{
+		"type": "PhotoGallery3",
+		"index": 41,
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"original_img": "",
+						"size": {
+							"width": -1,
+							"height": -1
+						}
+					}
+				]
+			},
+			{
+				"row": 2,
+				"img": [
+					{
+						"original_img": "http://kenh14cdn.com/2020/7/30/anh-tu-reno4-10-1596092048630880463072-crop-15960921472512018976371.jpg",
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-10-1596092048630880463072-crop-15960921472512018976371.jpg",
+						"size": {
+							"width": 430,
+							"height": 299
+						}
+					},
+					{
+						"original_img": "http://kenh14cdn.com/2020/7/30/anh-tu-reno4-6-1596092048623457163821-crop-15960922265911202984375.jpg",
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-6-1596092048623457163821-crop-15960922265911202984375.jpg",
+						"size": {
+							"width": 210,
+							"height": 139
+						}
+					},
+					{
+						"original_img": "http://kenh14cdn.com/2020/7/30/anh-tu-reno4-5-1596092048621611556725-crop-15960922075621404767156.jpg",
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-5-1596092048621611556725-crop-15960922075621404767156.jpg",
+						"size": {
+							"width": 210,
+							"height": 139
+						}
+					},
+					{
+						"original_img": "http://kenh14cdn.com/2020/7/30/anh-tu-reno4-2-15960920486151264167400-crop-1596092164008373184177.jpg",
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/anh-tu-reno4-2-15960920486151264167400-crop-1596092164008373184177.jpg",
+						"size": {
+							"width": 210,
+							"height": 210
+						}
+					}
+				]
+			}
+		]
+	},
+	{
+		"type": "p",
+		"value": "Với những dòng sản phẩm Reno, ngoài ảnh tĩnh thì OPPO cũng khá chú trọng vào các tính năng quay video.",
+		"index": 42
+	},
+	{
+		"type": "gifPhoto",
+		"filename": "http://kenh14cdn.com/2020/7/30/slow-mo-15960922509511683182764.gif.mp4",
+		"avatar": "http://kenh14cdn.com/2020/7/30/slow-mo-15960922509511683182764.gif.png",
+		"size": {
+			"width": 700,
+			"height": 394
+		},
+		"caption": "Video Slow motion 960fps từ Reno4",
+		"index": 43
+	},
+	{
+		"type": "p",
+		"value": "Đầu tiên ta phải nói tới là khả năng quay video siêu chậm 960fps, sau khi được chuyển lại thành video 30fps thì sẽ chậm hơn đời thực 32 lần. Việc bấm được nút quay đúng với lúc hành động diễn ra là rất khó, nên máy cũng có tính năng tự xác định chuyển động, và tự tạo ra video slow-mo việc thực hiện trở nên dễ dàng hơn.",
+		"index": 44
+	},
+	{
+		"type": "videoStream",
+		"filename": "https://hls.mediacdn.vn/kenh14/2020/7/30/selective-color-1596092417143185418573-9d5f6.mp4/master.m3u8",
+		"avatar": "https://video-thumbs.mediacdn.vn/kenh14/2020/7/30/selective-color-1596092417143185418573-9d5f6.jpg",
+		"size": {
+			"width": 16,
+			"height": 9
+		},
+		"caption": "Video đơn sắc OPPO Reno4",
+		"index": 45
+	},
+	{
+		"type": "p",
+		"value": "Tiếp theo là khả năng quay video đơn sắc, hay với những bạn nhiếp ảnh gia đã biết với tên gọi 'Selective Color'. Ta có 4 chế độ: chỉ màu đỏ, màu xanh lá cây hoặc màu xanh nước biển, và cuối cùng là đo chiều sâu, chỉ giữ lại màu của con người. Ở chế độ cuối cùng, bạn có thể hiểu như đây là quay video dạng 'xóa phông', nhưng thay vì tạo ra 1 lớp mờ thì là xóa màu đi để người được quay nổi bật hơn.",
+		"index": 46
+	},
+	{
+		"type": "p",
+		"value": "<b><i>Sự trở lại của chip 'Rồng'</i></b>",
+		"index": 47
+	},
+	{
+		"type": "p",
+		"value": "Ở Reno3, OPPO đã 'nghỉ chơi' với Qualcomm để thử nghiệm với những vi xử lý của Mediatek, cụ thể là Helio P90. Đây có thể coi là một vi xử lý cho hiệu năng không tệ, song được xây dựng trên nền tảng cũ, kèm theo đó lại không đến từ một hãng có tên tuổi lớn như Qualcomm.",
+		"index": 48
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/hieu-nang-1596092508065478336914-1596092824649593012416.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/hieu-nang-1596092508065478336914-1596092824649593012416.png",
+			"size": {
+				"width": 2000,
+				"height": 1314
+			}
+		},
+		"caption": "Hiệu năng chip Snapdragon 720G",
+		"index": 49
+	},
+	{
+		"type": "p",
+		"value": "Đến với Reno4, hãng đã trở lại với những vi xử lý 'Rồng', cụ thể là chiếc Snapdragon 720G, với 8GB RAM. Sử dụng thông thường ta khó có thể thấy được những sự khác biệt về hiệu năng, nhưng khi thực hiện các tác vụ nặng cần sức mạnh nhiều nhân xử lý, hay game thì chip 720G lại trở nên mạnh mẽ hơn khá nhiều.",
+		"index": 50
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/so-sanh-1596092513105507479585-1596092834075986881684.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/so-sanh-1596092513105507479585-1596092834075986881684.png",
+			"size": {
+				"width": 1251,
+				"height": 707
+			}
+		},
+		"caption": "Hiệu năng của Snapdragon 720G vượt trội so với Helio P90",
+		"index": 51
+	},
+	{
+		"type": "p",
+		"value": "Một số bạn sẽ thắc mắc tại sao phiên bản Reno4 tại Việt Nam lại dùng vi xử lý Snapdragon 720G, trong khi có một phiên bản tại Trung Quốc có 765G, một dòng chip mới hơn và mạnh mẽ hơn. Câu trả lời nằm ở việc Snapdragon 765G được tích hợp chip 5G, trong khi đó công nghệ này chưa được áp dụng rộng rãi tại Việt Nam nên sẽ trở nên thừa thãi. OPPO có lẽ lựa chọn vi xử lý thấp hơn để giảm giá bán, bỏ đi những thứ người dùng không trải nghiệm được.",
+		"index": 52
+	},
+	{
+		"type": "p",
+		"value": "<b><i>Pin sạc tốt, nhưng chưa phải 'Max Ping'</i></b>",
+		"index": 53
+	},
+	{
+		"type": "p",
+		"value": "Khác với cấu hình vi xử lý, pin và sạc sẽ là 2 thứ Reno4 không có những điểm khác biệt so với sản phẩm tiền nhiệm. Ta có một viên pin 4015mAh (có thể coi là 4000mAh), khá tiêu chuẩn cho một dòng máy tầm trung. Với viên pin này máy có thể có thời gian sử dụng (mở màn hình) khoảng từ 6 - 7 tiếng, giảm xuống còn 5 tiếng nếu người dùng chơi game liên tục. Đặc biệt ở những phần trăm pin cuối cùng, Reno4 còn có tính năng siêu tiết kiệm pin để máy có thể dùng được lâu hơn.",
+		"index": 54
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-24-1596091764989245814044.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-24-1596091764989245814044.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 55
+	},
+	{
+		"type": "p",
+		"value": "Để sạc viên pin 4015mAh vẫn là công nghệ VOOC 4.0 30W, với khả năng sạc 58% trong 30 phút, 90% trong 1 tiếng và khoảng 75 phút để đầy pin từ trạng thái cạn kiệt. Đây vẫn có thể coi là công nghệ sạc nhanh thuộc top đầu thị trường, nhưng sẽ rất tuyệt vời nếu Reno4 có <i><a href='https://genk.vn/day-la-smartphone-thuong-mai-voi-kha-nang-sac-nhanh-vo-doi-nhat-tai-viet-nam-hien-nay-20200724141327721.chn'>công nghệ SuperVOOC 2.0 của Reno4 Pro</a></i>. Công nghệ này có thể sạc đầy một viên pin 4000mAh trong chỉ 36 - 37 phút, thật ấn tượng!",
+		"index": 56
+	},
+	{
+		"type": "p",
+		"value": "<b><i>'Quá trời' những tính năng phụ trợ</i></b>",
+		"index": 57
+	},
+	{
+		"type": "p",
+		"value": "Để có thể được gọi là một smartphone 'cận cao cấp', có lẽ Reno4 phải làm nhiều hơn là những thay đổi về phần cứng của máy. Hiểu được điều này, OPPO trang bị khá nhiều những tính năng phụ trợ kèm theo trong hệ điều hành ColorOS 7.2 của mình.",
+		"index": 58
+	},
+	{
+		"type": "gifPhoto",
+		"filename": "http://kenh14cdn.com/2020/7/30/home-screen-15960925876161291284518.gif.mp4",
+		"avatar": "http://kenh14cdn.com/2020/7/30/home-screen-15960925876161291284518.gif.png",
+		"size": {
+			"width": 700,
+			"height": 394
+		},
+		"caption": "Chế độ mở ứng dụng một tay",
+		"index": 59
+	},
+	{
+		"type": "p",
+		"value": "Đầu tiên là chế độ mở ứng dụng bằng một tay, ta chỉ cần vuốt nhẹ từ 1 cạnh màn hình thì lập tức các icon ứng dụng sẽ 'co cụm' về 1 phía để ta chọn chỉ bằng ngón tay cái.",
+		"index": 60
+	},
+	{
+		"type": "gifPhoto",
+		"filename": "http://kenh14cdn.com/2020/7/30/air-gesture-1596092587611128109962.gif.mp4",
+		"avatar": "http://kenh14cdn.com/2020/7/30/air-gesture-1596092587611128109962.gif.png",
+		"size": {
+			"width": 700,
+			"height": 394
+		},
+		"caption": "Cử chỉ điều khiển không trung",
+		"index": 61
+	},
+	{
+		"type": "p",
+		"value": "Tiếp theo là cử chỉ điều hướng trên không trung (Air gesture), một thứ mà Reno4 có mà Reno4 Pro lại không có nhờ vào việc trang bị camera trước kép. Ở những ứng dụng được hỗ trợ, người dùng sẽ vẩy tay lên hoặc xuống để cuộn trang, có lẽ sẽ hữu ích nhất trong những lúc nấu nướng tay bị bẩn, bạn muốn thao tác với smartphone nhưng không muốn làm bẩn màn hình.",
+		"index": 62
+	},
+	{
+		"type": "gifPhoto",
+		"filename": "http://kenh14cdn.com/2020/7/30/bao-mat-15960925876121253756599.gif.mp4",
+		"avatar": "http://kenh14cdn.com/2020/7/30/bao-mat-15960925876121253756599.gif.png",
+		"size": {
+			"width": 800,
+			"height": 450
+		},
+		"caption": "Ẩn tin nhắn nếu nhận thấy có người 'nhìn lén'",
+		"index": 63
+	},
+	{
+		"type": "p",
+		"value": "Nếu bạn đã bao giờ cảm thấy khó chịu vì có người nhìn lén những thông báo, đặc biệt là tin nhắn riêng tư của mình thì Reno4 đã có giải pháp hữu hiệu: tính năng chống nhìn lén. Máy sẽ chỉ hiện những thông báo của ứng dụng bạn chọn trước khi nhận thấy bạn đang nhìn, nếu như có khuôn mặt thứ 2 máy sẽ tự động ẩn chúng đi.",
+		"index": 64
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/screenshot2020-07-29-23-13-37-67-15960927055541235901630-15960928465151014259877.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/screenshot2020-07-29-23-13-37-67-15960927055541235901630-15960928465151014259877.png",
+			"size": {
+				"width": 1069,
+				"height": 645
+			}
+		},
+		"caption": "Tính năng xoay màn hình thông minh",
+		"index": 65
+	},
+	{
+		"type": "p",
+		"value": "Tính năng mà tôi cho là hữu dụng nhất đó là 'Xoay màn hình thông minh', máy sẽ tự động nhận diện hướng mặt của người dùng để xoay chiều màn hình ngang hoặc dọc, thay vì chỉ phụ thuộc vào cảm biến xoay chiều. Nếu như bạn đang nằm xem tin tức, đọc báo thì máy vẫn sẽ hiện theo chiều dọc thay vì xoay ngang, mặc dù có bật tính năng 'Tự động xoay màn hình' hay không.",
+		"index": 66
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/ringtone-1596092587617808583286-1596092883514419438583.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/ringtone-1596092587617808583286-1596092883514419438583.png",
+			"size": {
+				"width": 2000,
+				"height": 1384
+			}
+		},
+		"caption": "OPPO Lab: Tạo nhạc chuông cá nhân",
+		"index": 67
+	},
+	{
+		"type": "p",
+		"value": "Một số tính năng khác vẫn đang trong giai đoạn thử nghiệm sẽ được đặt trong ứng dụng OPPO Lab. Tính năng tạo nhạc chuông cá nhân cho phép người dùng tạo ra 1 bản nhạc mới, thông qua việc miêu tả bài nhạc này nên sôi động hay chậm rãi, đơn giản hay phức tạp và có tốc độ như thế nào. Tôi cũng đã dùng tính năng này để tạo nhạc cho video dạng đơn sắc ở trên!",
+		"index": 68
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/decision-1596092587614791148231-1596092892968158879602.png",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/decision-1596092587614791148231-1596092892968158879602.png",
+			"size": {
+				"width": 2000,
+				"height": 1368
+			}
+		},
+		"caption": "OPPO Lab: Vòng quay quyết định",
+		"index": 69
+	},
+	{
+		"type": "p",
+		"value": "Cuối cùng là ứng dụng vòng quay quyết định, giống như sổ xố loto nhưng những quyết định hàng ngày của bạn. Ví dụ, bạn muốn luyện tập để gia tăng sức khỏe nhưng biết chọn bộ môn nào, có thể dùng ứng dụng này để 'quay số', Reno4 sẽ chọn lấy 1 bộ môn cho bạn một cách ngẫu nhiên.",
+		"index": 70
+	},
+	{
+		"type": "p",
+		"value": "<b><i>Hòa hợp giữa phần cứng và phần mềm</i></b>",
+		"index": 71
+	},
+	{
+		"type": "p",
+		"value": "<b><i>OPPO Reno4 </i></b>lại một lần nữa thể hiện được ý đồ thiết kế của hãng smartphone này với dòng sản phẩm Reno: tạo ra chiếc máy hướng tới giới trẻ, hài hòa được những yếu tố về phần cứng và phần mềm để đem lại trải nghiệm gần với những máy cao cấp nhất có thể. Đặc biệt là với phần mềm, để trải nghiệm được tất cả những tính năng phụ trợ của máy có lẽ bạn sẽ phải bỏ ra cả 1 buổi!",
+		"index": 72
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-22-15960917649861172622018.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/7/30/oppo-reno4-reno4-pro-kenh-14-minh-duc-22-15960917649861172622018.jpg",
+			"size": {
+				"width": 1500,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 73
+	},
+	{
+		"type": "p",
+		"value": "Vẫn còn đó những 'vết gợn' như hệ thống loa đơn, khung viền không được làm bằng kim loại hay màn hình thiếu đi tần số làm tươi cao, có lẽ cũng là những cách để OPPO hướng người dùng cần những điều này tới các dòng máy cao cấp hơn như Reno4 Pro và Find X2. Được cái này ta sẽ mất cái kia, khó có thể có một chiếc smartphone hoàn hảo, đầy đủ tất cả mọi thứ ở mức giá tầm trung được.",
+		"index": 74
+	},
+	{
+		"type": "p",
+		"value": "Máy đang được bán với mức giá khá hợp lý là 8.490.000 đồng kèm theo nhiều quà tặng có giá trị.",
+		"index": 75
+	}
+]

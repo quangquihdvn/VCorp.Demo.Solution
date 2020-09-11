@@ -1,0 +1,260 @@
+type= photo | layoutAlbum | profilecontentbox | videoStream | p
+
+20200823212508484
+2020082122305814
+
+20200819220434713
+[
+	{
+		"type": "p",
+		"value": "<a href='http://app.kenh14.vn/app/dau-truong-danh-vong.html'>Đấu Trường Danh Vọng</a> (ĐTDV) xứng đáng là giải đấu eSports số 1 Việt Nam khi mọi diễn biến bên trong lẫn bên ngoài sàn đấu đều khiến hàng nghìn khán giả quan tâm. Nổi bật nhất, có lẽ là những ồn ào của <a href='http://app.kenh14.vn/app/dau-truong-danh-vong-mua-dong-2020-dau-la-cai-ten-co-the-canh-tranh-song-phang-voi-team-flash-2020081218093723.htm'>Team Flash</a> trước mùa giải, sau đó chính là thông tin chuyển nhượng bất ngờ với cái tên Daim. Đây cũng chính là dịp để fan lẫn antifan đưa ra hàng loạt ý kiến trái chiều, người chỉ trích, kẻ ủng hộ... ",
+		"index": 1
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-3-15978620669841291936252.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-3-15978620669841291936252.jpg",
+			"size": {
+				"width": 800,
+				"height": 1001
+			}
+		},
+		"caption": "",
+		"index": 2
+	},
+	{
+		"type": "p",
+		"value": "Tất cả đều diễn ra phía sau màn hình. Nhưng ở đâu đó, người gánh chịu tổn thương và đương đầu chống lại để khẳng định bản lĩnh của mình lại chính là tuyển thủ - những người vốn chỉ nên dừng lại ở vai trò thi đấu, thi đấu và thi đấu.",
+		"index": 3
+	},
+	{
+		"type": "videoStream",
+		"filename": "https://hls.mediacdn.vn/kenh14/2020/8/19/pvthe-flashfix-1-15978461074651683160615-d0668.mp4/master.m3u8",
+		"avatar": "https://video-thumbs-ext.mediacdn.vn/2020/8/20/facebook-avatar-copy-17-15978627503702015454398.jpg",
+		"size": {
+			"width": 16,
+			"height": 9
+		},
+		"caption": "Clip phỏng vấn độc quyền FL.Harvin và FL.Daim.",
+		"index": 4
+	},
+	{
+		"type": "p",
+		"value": "<b>Hãy nghe những chia sẻ bằng tất cả tâm huyết từ Harvin và lời \"tuyên chiến\" anfifan cực máu lửa từ Daim:</b>",
+		"index": 5
+	},
+	{
+		"type": "p",
+		"value": "Về với Team Flash - đội tuyển giàu thành tích nhất Liên Quân Mobile thế giới, Daim nhận phải không ít hoài nghi từ cả người hâm mộ lẫn antifan. Chàng xạ thủ này bị soi về cả mặt trình độ, cho đến sự hòa nhập với đội tuyển mới khi không ít ý kiến cho rằng: \"<b>Đến Team Flash chỉ để 'ăn ké' danh hiệu, để cãi nhau với ADC...</b>\"",
+		"index": 6
+	},
+	{
+		"type": "p",
+		"value": "Đập tan những nghi ngờ về mặt tài năng, ngay khi được hỏi: \"<b>Ai là xạ thủ số 1 của Liên Quân Việt Nam hiện tại?</b>\" - Daim đã có câu trả lời xứng đáng điểm 10: \"<i>Nếu mình không phải là số 1 thì tại sao Team Flash lại mời mình?</i>\"",
+		"index": 7
+	},
+	{
+		"type": "profilecontentbox",
+		"img": "http://kenh14cdn.com/2020/8/19/3-copy-4-15978408267161778892591-crop-15978644801691822034489.jpg",
+		"profileName": "FL.Daim",
+		"profileMainInfo": "Tên thật: Nay Thành TrungSinh nhật: 22/12/1999Quê quán: Gia Lai",
+		"profileInfo": [
+			"Vô địch ESL Vietnam Championship Season 1 (IGP)",
+			"Á quân ĐTDV mùa Đông 2019 (IGP)",
+			"Hạng 4 AIC 2019 (IGP)",
+			"Hạng 3 ĐTDV mùa Xuân 2020 (IGP)",
+			"Hạng 3 ĐTDV mùa Đông 2018 (OCS)"
+		],
+		"index": 8
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile3859-1597862595746106108180.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile3859-1597862595746106108180.jpg",
+			"size": {
+				"width": 2000,
+				"height": 1333
+			}
+		},
+		"caption": "",
+		"index": 9
+	},
+	{
+		"type": "layoutAlbum",
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile3847-15978620259951922938807.jpg",
+						"original_img": "http://kenh14cdn.com/2020/8/20/mile3847-15978620259951922938807.jpg",
+						"size": {
+							"width": 2000,
+							"height": 1336
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile3821-1597862025993599304877.jpg",
+						"original_img": "http://kenh14cdn.com/2020/8/20/mile3821-1597862025993599304877.jpg",
+						"size": {
+							"width": 2000,
+							"height": 1333
+						}
+					}
+				]
+			}
+		],
+		"caption": "",
+		"index": 10
+	},
+	{
+		"type": "p",
+		"value": "Có lẽ, đó cũng chính là nỗi lòng của chàng cựu HLV Harvin khi anh cũng từng vấp phải những nghi vấn trước thềm AWC. Để rồi sau đó, dẫu cho giành được bao nhiêu danh hiệu, antifan vẫn cứ chỉ trích, dồn ép và áp đặt anh như là kẻ \"ăn ké\" danh hiệu!",
+		"index": 11
+	},
+	{
+		"type": "p",
+		"value": "Harvin bổ sung cho câu nói của cậu học trò rằng: <i>\"Những thông số biết nói đã chỉ ra Daim là 1 trong 2 xạ thủ xuất sắc nhất của Đấu Trường Danh Vọng (ĐTDV) và có thể vươn tầm quốc tế. </i><i>Cùng với Elly, Daim là 1 trong 2 xạ thủ xuất sắc nhất của Việt Nam và Team Flash sở hữu cả 2 nhân tố này.\"</i>",
+		"index": 12
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-2-159786206697944812867.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-2-159786206697944812867.jpg",
+			"size": {
+				"width": 800,
+				"height": 1061
+			}
+		},
+		"caption": "",
+		"index": 13
+	},
+	{
+		"type": "p",
+		"value": "Ngay sau đó, trích lời của một antifan rằng: \"<b>Daim chỉ đến Team Flash để 'ăn ké' danh hiệu</b>\" thì chàng trai sinh năm 1999 cũng tiếp tục khẳng định rằng anh sẽ chứng minh thực lực bằng màn trình diễn ở mùa giải mới. \"<i>Nếu các bạn nghĩ mình đến Team Flash chỉ để 'ăn ké' danh hiệu thì mùa tới mình sẽ cho các bạn biết Daim là người như thế nào!</i>\",<i> </i>FL.Daim chia sẻ.",
+		"index": 14
+	},
+	{
+		"type": "p",
+		"value": "Người trực tiếp đưa Daim về Team Flash - Harvin cũng chia sẻ rằng quyết định chiêu mộ Daim đã được sự thống nhất của toàn đội và Daim xứng đáng được như thế. Đồng thời, Quản lý mới cũng chia sẻ rằng: \"<i>Daim có thể thay đổi được cả lối chơi của Team Flash và mùa tới Daim sẽ là người đem chức vô địch về cho đội tuyển này.</i>\"",
+		"index": 15
+	},
+	{
+		"type": "p",
+		"value": "Tiếp đến là chuyện hòa nhập của Daim với đội tuyển nhiều ngôi sao lớn như Team Flash. Daim là xạ thủ có cá tính và anh chàng này đã từng xung đột cùng đồng đội khi đang thi đấu. Nhiều người đã \"đào mộ\" chuyện này và đặt ra câu hỏi: \"<b>Tới để cãi nhau với ADC đấy à?</b>\"",
+		"index": 16
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-4-15978620669961537879616.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-4-15978620669961537879616.jpg",
+			"size": {
+				"width": 800,
+				"height": 1061
+			}
+		},
+		"caption": "",
+		"index": 17
+	},
+	{
+		"type": "p",
+		"value": "Lần này, Daim cho thấy mình cũng hiểu rất rõ về Team Flash. Còn Harvin thì khẳng định đó chính là \"truyền thống\" tạo nên thành công của đội tuyển: \"<i>Truyền thống của Team Flash là cãi nhau, mà mỗi lần cãi nhau thì vô địch. Daim cũng không phải trường hợp ngoại lệ.</i>\"",
+		"index": 18
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-1597862067015911361551.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/8/20/3-copy-1597862067015911361551.jpg",
+			"size": {
+				"width": 800,
+				"height": 1061
+			}
+		},
+		"caption": "",
+		"index": 19
+	},
+	{
+		"type": "p",
+		"value": "ĐTDV mùa Đông 2020, Team Flash đang hướng đến nhiều thay đổi so với các mùa giải trước đó. Từ việc Phương Top rời vị trí giám đốc Team Flash và Harvin nhậm chức quản lý, cho đến Gấu lên làm HLV hay chiêu mộ Daim. Những câu hỏi về sứ mệnh của Harvin ở Team Flash có lẽ chính anh là người hiểu rõ nhất. Anh sẽ phải giải đáp cho câu hỏi Harvin của tương lai sẽ nhìn về Phương Top với thành tích lẫy lừng ở quá khứ như thế nào?",
+		"index": 20
+	},
+	{
+		"type": "p",
+		"value": "Chàng cựu HLV thẳng thắn chia sẻ: \"<i>Anh Phương Top là sếp cũ của mình và cũng là người đưa mình về Team Flash để có được thành công như hiện tại. Trước hết, mình xin cám ơn anh Phương Top đã hết sức giúp đỡ cũng như tạo điều kiện cho mình tốt nhất khi mình ở Flash. Đối với mình, khi thay thế vị trí của Phương Top thì phải chịu rất nhiều áp lực, đồng thời có rất nhiều việc phải làm. Mình mong rằng sẽ học được nhiều kinh nghiệm để giỏi ngang hoặc hơn Phương Top trong thời gian tới.</i>\"",
+		"index": 21
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile4008-15978620260092079224626.jpg",
+			"original_img": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile4008-15978620260092079224626.jpg",
+			"size": {
+				"width": 2000,
+				"height": 1333
+			}
+		},
+		"caption": "",
+		"index": 22
+	},
+	{
+		"type": "p",
+		"value": "Khi ngồi một vị trí mới, nắm giữ vai trò mới ở Team Flash, Harvin cũng không khỏi cảm thán khi nói về hy vọng muốn đạt được những thành tích mà chính anh đã bỏ lỡ ở quá khứ! Đó là giấc mơ SEA Games, là vinh quang cho Tổ quốc.",
+		"index": 23
+	},
+	{
+		"type": "p",
+		"value": "\"<i>Trước khi mình bước lên vị trí Manager thay cho Phương Top thì mọi người cũng đã thấy Phương Top quản lý Team Flash rất tốt, cũng như đưa Team Flash đến với những thành công nhất định. Nhưng khi mình thay thế vị trí này, mình muốn đưa đội tuyển đến với SEA Games hay những giải đấu quốc tế lớn hơn, tầm cỡ hơn mang vinh quang về cho quốc gia cũng như chính đội tuyển của mình</i>\", Harvin chia sẻ.",
+		"index": 24
+	},
+	{
+		"type": "layoutAlbum",
+		"img": [
+			{
+				"row": 1,
+				"img": [
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile3986-1597862026003140732683.jpg",
+						"original_img": "http://kenh14cdn.com/2020/8/20/mile3986-1597862026003140732683.jpg",
+						"size": {
+							"width": 2000,
+							"height": 1333
+						}
+					},
+					{
+						"src": "http://kenh14cdn.com/thumb_w/660/2020/8/20/mile3982-15978620260001964042370.jpg",
+						"original_img": "http://kenh14cdn.com/2020/8/20/mile3982-15978620260001964042370.jpg",
+						"size": {
+							"width": 2000,
+							"height": 1333
+						}
+					}
+				]
+			}
+		],
+		"caption": "",
+		"index": 25
+	},
+	{
+		"type": "p",
+		"value": "Có lẽ, ẩn sâu trong chuỗi thành tích của Team Flash, dù cho thảm bại tại APL 2020 và bị chỉ trích thậm tệ cũng không bằng nỗi đau của vòng sơ loại SEA Games. Đó mãi là nốt trầm mà chính họ, một thế hệ Team Flash giao thoa giữa cũ và mới phải tự mình thay đổi. Để đến được hành trình đó, họ phải quên đi những ồn ào, hướng về mục tiêu gần nhất - Đấu Trường Danh Vọng mùa Đông 2020.",
+		"index": 26
+	},
+	{
+		"type": "photo",
+		"img": {
+			"src": "http://kenh14cdn.com/2020/8/20/artboard-1-copy-15978626340701803964234.png",
+			"original_img": "http://kenh14cdn.com/2020/8/20/artboard-1-copy-15978626340701803964234.png",
+			"size": {
+				"width": 1036,
+				"height": 963
+			}
+		},
+		"caption": "",
+		"index": 27
+	}
+]
